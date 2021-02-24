@@ -10,4 +10,4 @@ and bottom 20% in terms of revenue. Using foundational data analysis and visuali
 ### Fundamental Analysis of S&P500 Stocks
 Algorithm used: K-Means Clustering
 
-Description: S&P500 stocks data pulled from IEXCloud API. Built upon K-folds Cross Validation, hyperparameter optimization, and robust scaling.
+Data: S&P500 stocks financial data pulled from IEXCloud API
