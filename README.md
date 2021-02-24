@@ -9,4 +9,5 @@ and bottom 20% in terms of revenue. Exploring the differences and commonalities 
 ## K-Means Clustering
 ### Fundamental Analysis of S&P500 Stocks
 Algorithm used: K-Means Clustering
+
 Using NumPy, Pandas, Matplotlib, and Scikit-Learn with S&P500 financial data pulled from IEXCloud API.
